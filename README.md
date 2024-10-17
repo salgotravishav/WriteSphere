@@ -11,9 +11,7 @@ WriteSphere is a modern blogging platform built using React.js, Redux, Appwrite,
 - **State Management**: Powered by Redux for managing app state.
 - **Rich Text Editor**: For formatting blog posts easily.
 
-## Screenshots
-![Screenshot](url-to-your-image)  
-_Add a screenshot of your app interface here for better visual representation._
+
 
 ## Installation
 
